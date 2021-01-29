@@ -1,0 +1,48 @@
+* {
+    align-self: start;
+    background-color: aquamarine;
+    text-shadow: black;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    }
+h1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border-color: rgb(255, 255, 255);
+    border-style:ridge;
+    border-width: 10px;
+    font-size: xx-large;
+}
+h2 {
+   background-color: black;
+   background-position: center;
+}
+p {
+    background-color: black;
+color: rgb(255, 255, 255);
+border-radius: 30px;
+border-style: ridge;
+border-width: 10px;
+border-color: rgb(255, 255, 255);
+}
+a {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 30px;
+    border-style: ridge;
+    border-width: 10px;
+    text-align: left; 
+}
+li {
+    background-color: black;
+}
+h2 {
+    color: White;
+    border-style: ridge;
+    border-color: white;
+    border-radius: 30px;
+    border-width: 10px;
+    font-size: xx-large;
+}
