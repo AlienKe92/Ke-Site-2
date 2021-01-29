@@ -46,3 +46,10 @@ h2 {
     border-width: 10px;
     font-size: xx-large;
 }
+img {
+    border-style: ridge;
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    align-items: center;
+}
